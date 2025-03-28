@@ -1,5 +1,5 @@
-# LimeLimeLemon
-LimeLimeLemon é um jogo de puzzle de advinhação, feito em C#, executando em Console.
+# Palpit
+PalPit é um jogo de puzzle de advinhação, feito em C#, executando em Console.
 # Como jogar
 1. Baixe o ZIP e descompacte ele.
 2. Abra a pasta e execute o EXE.
